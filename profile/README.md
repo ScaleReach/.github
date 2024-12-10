@@ -2,7 +2,7 @@
 
 <section>
 	<img align="right" src="/public/mock-portrait.png" height="520" alt="Screenshot of interface hosted live on https://scalereach.team">
-	<div>
+	<div align="left">
 		<p>Problem statement: How can we reduce call volumes to OCBC hotlines?</p>
 		<p>Problem agitator: Long wait time results in frustrated clients.</p>
 		<p>The goal of ScaleReach is to reduce wait times at hotlines to virtually zero, reducing the number of callers that require assistance from a human provider.</p>
