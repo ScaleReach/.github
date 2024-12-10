@@ -34,6 +34,8 @@ This will help ensure the LLM only provide responses that has been verified (wit
 
 Therefore, the power of Jane is only limited by the size of this knowledge database. Gradually, with a big knowledge database, mundane and common enquiries can be resolved by Jane amicably.
 
+View the SQL script to setup the PostgreSQL database: [gist.github.com](https://gist.github.com/ballgoesvroomvroom/47db0c9e9d3a064873367ac43d62b6c2).
+
 ### Data governance
 Utilising LLM provided by third-party providers such as OpenAI may be the most feasible option when on-premise infrastructure lacks the capability.
 
