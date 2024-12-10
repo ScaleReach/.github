@@ -4,11 +4,9 @@ Problem statement: How can we reduce call volumes to OCBC hotlines?
 
 Problem agitator: Long wait time results in frustrated clients.
 
-ScaleReach targets OCBC clients who requires assistance
+The goal of ScaleReach is to reduce wait times at hotlines to virtually zero, reducing the number of callers that require assistance from a human provider.
 
 Featuring Jane, our first call bot agent packed with many functionality, mimicing a real customer support officer at OCBC's hotline.
-
-The goal of ScaleReach is to reduce wait times at hotlines to virtually zero, reducing the number of callers that require assistance from a human provider.
 
 Jane was created for the sole purpose - reduce call volumes at OCBC's hotlines.
 ![Interface demo](/public/mock-portrait.png)
