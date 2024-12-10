@@ -51,7 +51,10 @@ Hosted and deployed on AWS infrastructure (EC2, behind a VPC) with Cloudfare DNS
 
 A docker ochestrator can be brought into play, further amplifying ScaleReach's reach by allowing it to handle multiple calls at once.
 
-View sped up (x1.5) demo here (no audio due to privacy controls on capturing device - no voice call audio can be captured): ![Sped up 1.5x demo of ScaleReach hosted live on https://scalereach.team](/public/demo.mp4)
+View sped up (x1.5) demo here (no audio due to privacy controls on capturing device - no voice call audio can be captured):
+<video width="320" height="240" controls>
+	<source src="/public/demo.mp4" type="video/mp4" alt="Sped up 1.5x demo of ScaleReach hosted live on https://scalereach.team">
+</video>
 
 
 ## Crowd control
