@@ -1,6 +1,6 @@
 # ScaleReach - OCBC Ignite 2024
 
-<img align="right" src="/public/mock-portrait.png" height="520" alt="Screenshot of interface hosted live on https://scalereach.team">
+<img src="/public/mock-portrait.png" height="520" alt="Screenshot of interface hosted live on https://scalereach.team">
 Problem statement: How can we reduce call volumes to OCBC hotlines?
 
 Problem agitator: Long wait time results in frustrated clients.
