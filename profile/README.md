@@ -9,7 +9,7 @@ The goal of ScaleReach is to reduce wait times at hotlines to virtually zero, re
 Featuring Jane, our first call bot agent packed with many functionality, mimicing a real customer support officer at OCBC's hotline.
 
 Jane was created for the sole purpose - reduce call volumes at OCBC's hotlines.
-![Screenshot of interface hosted live on https://scalereach.team](/public/mock-portrait.png)
+<img align="right" src="/public/mock-portrait.png" alt="Screenshot of interface hosted live on https://scalereach.team">
 
 ## Jane
 Powered by an intent service, knowledge database, authentication service, and LLM model, Jane can mimic the function of a real customer support officer to a great extent.
@@ -27,6 +27,7 @@ A staff can work to resolve the intents (e.g. submission of tracer to check remi
 
 ![Screenshot of intent dashboard](/public/dashboard.png)
 
+Dashboard for staff connected to the intent service via secured web sockets, allowing for real-time updates of intents (if there was ever a need).
 
 ### Knowledge database
 To ensure the repsonses and help provided by Jane is accurate, RAG is implemented with a custom vector database to query for the top three most relevant answers.
