@@ -11,14 +11,13 @@
 	</div>
 </section>
 
-## Jane
-Powered by an intent service, knowledge database, authentication service, and LLM model, Jane can mimic the function of a real customer support officer to a great extent.
-
-With Jane, ScaleReach hopes to resolve mundane enquiries and help provide faster, more efficient support to clients in need.
-
-In the event Jane faces challenges communicating with the caller, it will escalate the call to a human provider.
-
-![Jane architecture diagram](/public/jane-big.png)
+<section>
+	<h2>Jane</h2>
+	<p>Powered by an intent service, knowledge database, authentication service, and LLM model, Jane can mimic the function of a real customer support officer to a great extent.</p>
+	<p>With Jane, ScaleReach hopes to resolve mundane enquiries and help provide faster, more efficient support to clients in need.</p>
+	<p>In the event Jane faces challenges communicating with the caller, it will escalate the call to a human provider.</p>
+	<img src="/public/jane-big.png" alt="Jane architecture diagram">
+</section>
 
 ### Intent service
 For queries that require more time to be resolved (i.e. reach out to relevant departments), Jane can capture the details of the intent, authenticate the user via a separate service, and finally file the intent to be completed by a staff.
