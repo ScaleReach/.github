@@ -9,7 +9,7 @@ The goal of ScaleReach is to reduce wait times at hotlines to virtually zero, re
 Featuring Jane, our first call bot agent packed with many functionality, mimicing a real customer support officer at OCBC's hotline.
 
 Jane was created for the sole purpose - reduce call volumes at OCBC's hotlines.
-![Interface demo](/public/mock-portrait.png)
+![Screenshot of interface hosted live on https://scalereach.team](/public/mock-portrait.png)
 
 ## Jane
 Powered by an intent service, knowledge database, authentication service, and LLM model, Jane can mimic the function of a real customer support officer to a great extent.
@@ -18,12 +18,15 @@ With Jane, ScaleReach hopes to resolve mundane enquiries and help provide faster
 
 In the event Jane faces challenges communicating with the caller, it will escalate the call to a human provider.
 
-![Jane architecture](/public/jane-big.png)
+![Jane architecture diagram](/public/jane-big.png)
 
 ### Intent service
 For queries that require more time to be resolved (i.e. reach out to relevant departments), Jane can capture the details of the intent, authenticate the user via a separate service, and finally file the intent to be completed by a staff.
 
 A staff can work to resolve the intents (e.g. submission of tracer to check remittance status) without having to contact the caller. This reduces the stall time arised from awaiting responses from the client. All in all, increasing efficiency.
+
+![Screenshot of intent dashboard](/public/dashboard.png)
+
 
 ### Knowledge database
 To ensure the repsonses and help provided by Jane is accurate, RAG is implemented with a custom vector database to query for the top three most relevant answers.
@@ -46,6 +49,8 @@ Jane is deployed as a combination of many services, made easy with Docker contai
 Hosted and deployed on AWS infrastructure (EC2, behind a VPC) with Cloudfare DNS (https://scalereach.team).
 
 A docker ochestrator can be brought into play, further amplifying ScaleReach's reach by allowing it to handle multiple calls at once.
+
+View sped up (x1.5) demo here (no audio due to privacy controls on capturing device - no voice call audio can be captured): ![Sped up 1.5x demo of ScaleReach hosted live on https://scalereach.team](/public/demo.mp4)
 
 
 ## Crowd control
