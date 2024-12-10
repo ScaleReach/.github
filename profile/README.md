@@ -56,6 +56,8 @@ View sped up (x1.5) demo here (no audio due to privacy controls on capturing dev
 	<source src="/public/demo.mp4" type="video/mp4" alt="Sped up 1.5x demo of ScaleReach hosted live on https://scalereach.team">
 </video>
 
+[video link](/public/demo.mp4)
+
 
 ## Crowd control
 An interactive map that features wait times with their respective colour indicators.
