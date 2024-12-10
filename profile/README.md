@@ -49,7 +49,7 @@ The authentication service works in a structured manner, making the redaction po
 Jane is deployed as a combination of many services, made easy with Docker containers and compose.
 Hosted and deployed on AWS infrastructure (EC2, behind a VPC) with Cloudfare DNS (https://scalereach.team).
 
-A docker ochestrator can be brought into play, further amplifying ScaleReach's reach by allowing it to handle multiple calls at once.
+A docker orchestrator can be brought into play, further amplifying ScaleReach's reach by allowing it to handle multiple calls at once.
 
 View sped up (x1.5) demo here (no audio due to privacy controls on capturing device - no voice call audio can be captured):
 <video width="320" height="240" controls>
