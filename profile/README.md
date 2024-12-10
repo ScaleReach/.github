@@ -1,5 +1,6 @@
 # ScaleReach - OCBC Ignite 2024
 
+<img align="right" src="/public/mock-portrait.png" height="520" alt="Screenshot of interface hosted live on https://scalereach.team">
 Problem statement: How can we reduce call volumes to OCBC hotlines?
 
 Problem agitator: Long wait time results in frustrated clients.
@@ -9,7 +10,6 @@ The goal of ScaleReach is to reduce wait times at hotlines to virtually zero, re
 Featuring Jane, our first call bot agent packed with many functionality, mimicing a real customer support officer at OCBC's hotline.
 
 Jane was created for the sole purpose - reduce call volumes at OCBC's hotlines.
-<img align="right" src="/public/mock-portrait.png" height="520" alt="Screenshot of interface hosted live on https://scalereach.team">
 
 ## Jane
 Powered by an intent service, knowledge database, authentication service, and LLM model, Jane can mimic the function of a real customer support officer to a great extent.
